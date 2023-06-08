@@ -16,7 +16,7 @@ input:checked {
 }
 .title{
     position: absolute;
-    left: calc(50% - 95px);
+    left: calc(50% - 85px);
     color: var(--pikachu-skin-bright-color);
     text-shadow: 2px 2px 2px var(--pikachu-border-color);
     width: 100%;
